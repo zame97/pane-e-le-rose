@@ -1,13 +1,12 @@
 ---
 title: "Casa Di Quartiere"
-date: 2021-05-14T14:46:10+06:00
+date: 2021-10-04T14:46:10+06:00
 description: "This is meta description"
 type: "featured"
 image: "images/featured-post/casa-di-quartiere-front.jpg"
 categories: 
-  - "Comunità"
+  - "Luogo"
 tags:
-  - "Sede-legale"
   - "Alessandria"
 ---
 

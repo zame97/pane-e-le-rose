@@ -5,7 +5,7 @@ description: "This is meta description"
 type: "featured"
 image: "images/featured-post/second-life-gruccie.jpg"
 categories: 
-  - "Fashion"
+  - "Luogo"
 tags:
   - "Fashion"
   - "Alessandria"

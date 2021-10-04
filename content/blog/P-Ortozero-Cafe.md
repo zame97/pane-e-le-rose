@@ -5,7 +5,7 @@ description: "This is meta description"
 type: "featured"
 image: "images/featured-post/ortozero.jpg"
 categories: 
-  - "Ristorante"
+  - "Luogo"
 tags:
   - "Ristorante"
   - "Alessandria"

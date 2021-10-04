@@ -7,8 +7,7 @@ image: "images/masonary-post/post-7.jpg"
 categories: 
   - "Articolo"
 tags:
-  - "Photos"
-  - "Food"
+  - "inchiesta"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et

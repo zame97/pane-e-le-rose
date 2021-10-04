@@ -5,9 +5,8 @@ description: "This is meta description"
 type: "featured"
 image: "images/featured-post/coming-soon.png"
 categories: 
-  - "Casa"
+  - "Luogo"
 tags:
-  - "Casa"
   - "Alessandria"
 ---
 
