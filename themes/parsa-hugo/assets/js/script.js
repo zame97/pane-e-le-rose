@@ -18,10 +18,10 @@
 
   $('.featured-post-slider').slick({
     dots: false,
-    speed: 300,
+    speed: 200,
     autoplay: true,
     arrows: false,
-    slidesToShow: 4,
+    slidesToShow: 3,
     slidesToScroll: 1,
     responsive: [{
         breakpoint: 1024,
