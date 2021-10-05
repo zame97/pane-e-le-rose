@@ -83,7 +83,7 @@ description = "This is meta description"
 # Preloader
 preloader = true
 # search
-search = true
+search = false
 # about author
 # author = "zio paperone"
 # author_image = "images/banner-img.png"
@@ -101,7 +101,7 @@ contact_form_action = "#"
 
 # Instagram feed
 [params.instafeed]
-enable = true
+enable = false
 access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
 
 # cookies
@@ -112,7 +112,7 @@ expire_days = 2
 # social site
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://facebook.com/"
 
 [[params.social]]
 icon = "ti-twitter-alt"
