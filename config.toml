@@ -3,7 +3,7 @@ baseurl = "https://ilpaneelerosecoop.org"
 languageCode = "it"
 title = "Cooperativa Il Pane e Le Rose"
 theme = "parsa-hugo"
-summaryLength = "10"
+summaryLength = "5"
 paginate = 6
 # google analytics
 googleAnalytics = "" # example : UA-123-45
