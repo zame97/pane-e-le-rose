@@ -1,13 +1,13 @@
 ---
-title: "Graziella Pittalis"
+title: "Articolo 5"
 date: 2021-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "post"
-image: "images/masonary-post/post-8.jpg"
+image: "images/featured-post/coming-soon.png"
 categories: 
   - "Articolo"
 tags:
-  - "Intervista"
+  - "Pensiero"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et

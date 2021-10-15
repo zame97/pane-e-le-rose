@@ -1,9 +1,9 @@
 ---
-title: "Paola"
+title: "Articolo 11"
 date: 2021-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "post"
-image: "images/masonary-post/post-11.jpg"
+image: "images/featured-post/coming-soon.png"
 categories: 
   - "Articolo"
 tags:

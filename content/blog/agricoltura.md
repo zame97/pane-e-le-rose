@@ -3,7 +3,7 @@ title: "Agricoltura Sociale"
 date: 2021-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "featured"
-image: "images/featured-post/coming-soon.png"
+image: "images/ICO_agri_02.png"
 categories: 
   - "Attività"
 tags:

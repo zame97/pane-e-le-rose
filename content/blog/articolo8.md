@@ -1,9 +1,9 @@
 ---
-title: "Cristina"
+title: "Articolo 8"
 date: 2021-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "post"
-image: "images/masonary-post/post-12.jpg"
+image: "images/featured-post/coming-soon.png"
 categories: 
   - "Articolo"
 tags:

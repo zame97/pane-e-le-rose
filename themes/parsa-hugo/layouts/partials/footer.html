@@ -2,7 +2,7 @@
   <div class="section">
     <div class="container">
       <div class="row">
-        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
+        <div class="col-md-3 col-sm-6 mb-3 mb-md-0">
           <a href="{{site.BaseURL}}"><img src="{{site.Params.logo | absURL }}" alt="{{site.Title}}" class="img-fluid"></a>
         </div>
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
@@ -25,14 +25,6 @@
             {{ end }}
           </ul>
           {{ end }}
-        </div>
-        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
-          <h6>Social media</h6>
-          <ul class="list-inline d-inline-block">
-            {{ range site.Params.social }}
-            <li class="list-inline-item"><a href="{{ .link | safeURL }}" class="text-dark"><i class="{{ .icon }}"></i></a></li>
-            {{ end }}
-          </ul>
         </div>
       </div>
     </div>

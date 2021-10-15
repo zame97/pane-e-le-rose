@@ -62,7 +62,7 @@ link = "plugins/search/search.js"
   # url = "homepage/home-2"
 
 [[menu.main]]
-name = "Chi siamo"
+name = "Cooperativa Il Pane e Le Rose"
 url = "about"
 weight = 2
 
@@ -74,7 +74,6 @@ weight = 3
 # deult parameter
 [params]
 logo = "images/logo.png"
-banner = "images/banner.png"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"

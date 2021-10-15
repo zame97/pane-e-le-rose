@@ -1,11 +1,11 @@
 ---
-title: "Chi siamo"
+title: "Cooperativa Il Pane e Le Rose"
 date: 2021-05-14T14:46:10+06:00
 description: "This is meta description"
 image: "images/author.jpg"
 ---
 
-### Cos'è la **Cooperativa Il Pane e Le Rose?**
+### **Chi siamo?**
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
 dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
